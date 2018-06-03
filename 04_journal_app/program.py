@@ -46,4 +46,5 @@ def add_entry(data):
     # data.append(text)
 
 
-main()
+if __name__ == '__main__':
+    main()
